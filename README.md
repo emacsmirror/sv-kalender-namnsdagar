@@ -2,4 +2,7 @@
 Emacs calendar function for the swedish celebrated name of the day
 
 Add to your .diary file
-&%%(sv-kalender-namnsdagar)
+
+```el
+&%%(sv-kalender-namnsdagar) 
+```
