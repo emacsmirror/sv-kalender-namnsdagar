@@ -296,7 +296,7 @@
      ("Arvid" "Vidar")                  ;31
      )
     (                                   ; September
-     ("Samuel")                         ; 1
+     ("Sam" "Samuel")                   ; 1
      ("Justus" "Justina")               ; 2
      ("Alfhild" "Alva")                 ; 3
      ("Gisela")                         ; 4
