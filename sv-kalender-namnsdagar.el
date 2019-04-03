@@ -1,4 +1,4 @@
-;;; sv-kalender-namnsdagar.el --- Swedish celibrated name of the day
+;;; sv-kalender-namnsdagar.el --- Swedish celibrated name of the day -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2019 Mats Lidell
 
