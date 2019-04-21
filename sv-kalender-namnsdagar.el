@@ -1,4 +1,4 @@
-;;; sv-kalender-namnsdagar.el --- Swedish celibrated name of the day -*- lexical-binding: t; -*-
+;;; sv-kalender-namnsdagar.el --- Swedish celebrated name of the day -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2019 Mats Lidell
 
@@ -22,7 +22,7 @@
 
 ;;; Commentary:
 
-;; Swedish celibrated name of the day
+;; Swedish celebrated name of the day
 
 ;; Example usage
 ;;
@@ -430,7 +430,7 @@
 
 ;; To be called from diary-list-sexp-entries, where DATE is bound.
 (defun sv-kalender-namnsdagar ()
-  "The days celibrated name in Sweden."
+  "The days celebrated name in Sweden."
   (let* ((day (calendar-extract-day date))
 	 (month (calendar-extract-month date))
 	 (names (nth (- day 1) (nth (- month 1) sv-kalender-namnsdagar-name-list))))
