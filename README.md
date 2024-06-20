@@ -1,5 +1,5 @@
 # sv-kalender-namnsdagar
-Emacs calendar function for the swedish celebrated name of the day
+Emacs calendar function for the Swedish name day calendar.
 
 Add to your .diary file
 
