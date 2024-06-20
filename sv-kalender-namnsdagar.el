@@ -3,7 +3,8 @@
 ;; Copyright (C) 2019-2024  Mats Lidell
 
 ;; Author: Mats Lidell <mats.lidell@lidells.se>
-;; Version: 0.9
+;; Version: 1.0
+;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: calendar, swedish, localization
 ;; URL: https://github.com/matsl/sv-kalender-namnsdagar
 
@@ -428,8 +429,7 @@
      ))
   "Swedish name days according to the 2022 revision.
 Names updated since the revision 2001 appear with the year they were
-added together with the name."
-  )
+added together with the name.")
 
 (defun sv-kalender-namnsdagar--pretty-name (name-info)
   "Prints the name from the NAME-INFO field."
