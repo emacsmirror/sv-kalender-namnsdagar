@@ -37,7 +37,7 @@
 (defconst sv-kalender-namnsdagar-name-list-2001-with-some-updates
   '(
     (                                   ; Januari
-     ("Nyårsdagen")                     ; 1
+     ("NyÃ¥rsdagen")                     ; 1
      ("Svea")                           ; 2
      ("Alfred" "Alfrida")               ; 3
      ("Rut")                            ; 4
@@ -61,9 +61,9 @@
      ("Vincent" "Viktor")               ;22
      ("Frej" "Freja")                   ;23
      ("Erika")                          ;24
-     ("Paul" "Pål")                     ;25
+     ("Paul" "PÃ¥l")                     ;25
      ("Bodil" "Boel")                   ;26
-     ("Göte" "Göta")                    ;27
+     ("GÃ¶te" "GÃ¶ta")                    ;27
      ("Karl" "Karla")                   ;28
      ("Diana")                          ;29
      ("Gunilla" "Gunhild")              ;30
@@ -71,8 +71,8 @@
      )
     (                                   ; Februari
      ("Max" "Maximilian")               ; 1
-     ("Kyndelsmässodagen")              ; 2
-     ("Disa" "Hjördis")                 ; 3
+     ("KyndelsmÃ¤ssodagen")              ; 2
+     ("Disa" "HjÃ¶rdis")                 ; 3
      ("Ansgar" "Anselm")                ; 4
      ("Agata" "Agda")                   ; 5
      ("Dorotea" "Doris")                ; 6
@@ -109,7 +109,7 @@
      ("Ebba" "Ebbe")                    ; 6
      ("Camilla")                        ; 7
      ("Siv" "Saga")                     ; 8
-     ("Torbjörn" "Torleif")             ; 9
+     ("TorbjÃ¶rn" "Torleif")             ; 9
      ("Edla" "Ada")                     ;10
      ("Edvin" "Egon")                   ;11
      ("Viktoria")                       ;12
@@ -125,7 +125,7 @@
      ("Kennet" "Kent")                  ;22
      ("Gerda" "Gerd")                   ;23
      ("Gabriel" "Rafael")               ;24
-     ("Marie bebådelsedag")             ;25
+     ("Marie bebÃ¥delsedag")             ;25
      ("Emanuel")                        ;26
      ("Rudolf" "Ralf")                  ;27
      ("Malkolm" "Morgan")               ;28
@@ -156,7 +156,7 @@
      ("Amalia" "Amelie")                ;20
      ("Anneli" "Annika")                ;21
      ("Allan" "Glenn")                  ;22
-     ("Georg" "Göran")                  ;23
+     ("Georg" "GÃ¶ran")                  ;23
      ("Vega")                           ;24
      ("Markus")                         ;25
      ("Teresia" "Terese")               ;26
@@ -173,10 +173,10 @@
      ("Gotthard" "Erhard")              ; 5
      ("Marit" "Rita")                   ; 6
      ("Carina" "Carita")                ; 7
-     ("Åke")                            ; 8
+     ("Ã…ke")                            ; 8
      ("Reidar" "Reidun")                ; 9
-     ("Esbjörn" "Styrbjörn")            ;10
-     ("Märta" "Märit")                  ;11
+     ("EsbjÃ¶rn" "StyrbjÃ¶rn")            ;10
+     ("MÃ¤rta" "MÃ¤rit")                  ;11
      ("Charlotta" "Lotta")              ;12
      ("Linnea" "Linn")                  ;13
      ("Halvard" "Halvar")               ;14
@@ -188,7 +188,7 @@
      ("Karolina" "Carola")              ;20
      ("Konstantin" "Conny")             ;21
      ("Hemming" "Henning")              ;22
-     ("Desideria" "Desirée")            ;23
+     ("Desideria" "DesirÃ©e")            ;23
      ("Ivan" "Vanja")                   ;24
      ("Urban")                          ;25
      ("Vilhelmina" "Vilma")             ;26
@@ -204,25 +204,25 @@
      ("Ingemar" "Gudmar")               ; 3
      ("Solbritt" "Solveig")             ; 4
      ("Bo")                             ; 5
-     ("Gustav" "Gösta")                 ; 6
+     ("Gustav" "GÃ¶sta")                 ; 6
      ("Robert" "Robin")                 ; 7
      ("Eivor" "Majvor")                 ; 8
-     ("Börje" "Birger")                 ; 9
+     ("BÃ¶rje" "Birger")                 ; 9
      ("Svante" "Boris")                 ;10
      ("Bertil" "Berthold")              ;11
      ("Eskil")                          ;12
      ("Aina" "Aino")                    ;13
-     ("Håkan" "Hakon")                  ;14
+     ("HÃ¥kan" "Hakon")                  ;14
      ("Margit" "Margot")                ;15
      ("Axel" "Axelina")                 ;16
      ("Torborg" "Torvald")              ;17
-     ("Björn" "Bjarne")                 ;18
-     ("Germund" "Görel")                ;19
+     ("BjÃ¶rn" "Bjarne")                 ;18
+     ("Germund" "GÃ¶rel")                ;19
      ("Linda")                          ;20
      ("Alf" "Alvar")                    ;21
      ("Paulina" "Paula")                ;22
      ("Adolf" "Alice")                  ;23
-     ("Johannes Döparens dag")          ;24
+     ("Johannes DÃ¶parens dag")          ;24
      ("David" "Salomon")                ;25
      ("Rakel" "Lea")                    ;26
      ("Selma" "Fingal")                 ;27
@@ -239,8 +239,8 @@
      ("Esaias" "Jessika")               ; 6
      ("Klas")                           ; 7
      ("Kjell")                          ; 8
-     ("Jörgen" "Örjan")                 ; 9
-     ("André" "Andrea")                 ;10
+     ("JÃ¶rgen" "Ã–rjan")                 ; 9
+     ("AndrÃ©" "Andrea")                 ;10
      ("Eleonora" "Ellinor")             ;11
      ("Herman" "Hermine")               ;12
      ("Joel" "Judit")                   ;13
@@ -282,14 +282,14 @@
      ("Brynolf")                        ;16
      ("Verner" "Valter")                ;17
      ("Ellen" "Lena")                   ;18
-     ("Magnus" "Måns")                  ;19
+     ("Magnus" "MÃ¥ns")                  ;19
      ("Bernhard" "Bernt")               ;20
      ("Jon" "Jonna")                    ;21
      ("Henrietta" "Henrika")            ;22
      ("Signe" "Signhild")               ;23
      ("Bartolomeus")                    ;24
      ("Lovisa" "Louise")                ;25
-     ("Östen")                          ;26
+     ("Ã–sten")                          ;26
      ("Rolf" "Raoul")                   ;27
      ("Fatima" "Leila")			;28
      ("Hans" "Hampus")                  ;29
@@ -308,7 +308,7 @@
      ("Anita" "Annette")                ; 9
      ("Tord" "Turid")                   ;10
      ("Dagny" "Helny")                  ;11
-     ("Åsa" "Åslög")                    ;12
+     ("Ã…sa" "Ã…slÃ¶g")                    ;12
      ("Sture")                          ;13
      ("Ida" "Ronja")                    ;14
      ("Sigrid" "Siri")                  ;15
@@ -351,7 +351,7 @@
      ("Sibylla")                        ;20
      ("Ursula" "Yrsa")                  ;21
      ("Marika" "Marita")                ;22
-     ("Severin" "Sören")                ;23
+     ("Severin" "SÃ¶ren")                ;23
      ("Evert" "Eilert")                 ;24
      ("Inga" "Ingalill")                ;25
      ("Amanda" "Rasmus")                ;26
@@ -372,7 +372,7 @@
      ("Vendela")                        ; 8
      ("Teodor" "Teodora")               ; 9
      ("Martin" "Martina")               ;10
-     ("Mårten")                         ;11
+     ("MÃ¥rten")                         ;11
      ("Konrad" "Kurt")                  ;12
      ("Kristian" "Krister")             ;13
      ("Emil" "Emilia")                  ;14
@@ -421,7 +421,7 @@
      ("Juldagen")                       ;25
      ("Stefan" "Staffan")               ;26
      ("Johannes" "Johan")               ;27
-     ("Benjamin" "Värnlösa barns dag")  ;28
+     ("Benjamin" "VÃ¤rnlÃ¶sa barns dag")  ;28
      ("Natalia" "Natalie")              ;29
      ("Abel" "Set")                     ;30
      ("Sylvester")                      ;31
@@ -433,7 +433,7 @@ Some updates before 2022 revision has been added."
 (defconst sv-kalender-namnsdagar-name-list
   '(
     (                                   ; Januari
-     ("Nyårsdagen")                     ; 1
+     ("NyÃ¥rsdagen")                     ; 1
      ("Svea")                           ; 2
      ("Alfred" "Alfrida")               ; 3
      ("Rut")                            ; 4
@@ -457,9 +457,9 @@ Some updates before 2022 revision has been added."
      ("Vincent" "Viktor")               ;22
      ("Frej" "Freja")                   ;23
      ("Erika")                          ;24
-     ("Paul" "Pål")                     ;25
+     ("Paul" "PÃ¥l")                     ;25
      ("Bodil" "Boel")                   ;26
-     ("Göte" "Göta")                    ;27
+     ("GÃ¶te" "GÃ¶ta")                    ;27
      ("Karl" "Karla")                   ;28
      ("Diana")                          ;29
      ("Gunilla" "Gunhild")              ;30
@@ -467,8 +467,8 @@ Some updates before 2022 revision has been added."
      )
     (                                   ; Februari
      ("Max" "Maximilian")               ; 1
-     ("Kyndelsmässodagen")              ; 2
-     ("Disa" "Hjördis")                 ; 3
+     ("KyndelsmÃ¤ssodagen")              ; 2
+     ("Disa" "HjÃ¶rdis")                 ; 3
      ("Ansgar" "Anselm")                ; 4
      ("Agata" "Agda")                   ; 5
      ("Dorotea" "Doris")                ; 6
@@ -505,7 +505,7 @@ Some updates before 2022 revision has been added."
      ("Ebba" "Ebbe")                    ; 6
      ("Camilla")                        ; 7
      ("Siv" ("Saga" 2018))              ; 8
-     ("Torbjörn" "Torleif")             ; 9
+     ("TorbjÃ¶rn" "Torleif")             ; 9
      ("Edla" "Ada")                     ;10
      ("Edvin" "Egon")                   ;11
      ("Viktoria" ("Regina" 2022))       ;12
@@ -521,7 +521,7 @@ Some updates before 2022 revision has been added."
      ("Kennet" "Kent")                  ;22
      ("Gerda" "Gerd")                   ;23
      ("Gabriel" "Rafael")               ;24
-     ("Marie bebådelsedag")             ;25
+     ("Marie bebÃ¥delsedag")             ;25
      ("Emanuel")                        ;26
      ("Rudolf" "Ralf")                  ;27
      ("Malkolm" "Morgan")               ;28
@@ -552,7 +552,7 @@ Some updates before 2022 revision has been added."
      ("Amalia" "Amelie")                ;20
      ("Anneli" "Annika")                ;21
      ("Allan" "Glenn")                  ;22
-     ("Georg" "Göran")                  ;23
+     ("Georg" "GÃ¶ran")                  ;23
      ("Vega")                           ;24
      ("Markus")                         ;25
      ("Teresia" "Terese")               ;26
@@ -569,10 +569,10 @@ Some updates before 2022 revision has been added."
      ("Gotthard" "Erhard")              ; 5
      ("Marit" "Rita")                   ; 6
      ("Carina" "Carita")                ; 7
-     ("Åke")                            ; 8
+     ("Ã…ke")                            ; 8
      ("Reidar" "Reidun")                ; 9
-     ("Esbjörn" "Styrbjörn")            ;10
-     ("Märta" "Märit")                  ;11
+     ("EsbjÃ¶rn" "StyrbjÃ¶rn")            ;10
+     ("MÃ¤rta" "MÃ¤rit")                  ;11
      ("Charlotta" "Lotta")              ;12
      ("Linnea" "Linn")                  ;13
      ("Halvard" "Halvar")               ;14
@@ -584,7 +584,7 @@ Some updates before 2022 revision has been added."
      ("Karolina" "Carola")              ;20
      ("Konstantin" "Conny")             ;21
      ("Hemming" "Henning")              ;22
-     ("Desideria" "Desirée")            ;23
+     ("Desideria" "DesirÃ©e")            ;23
      ("Ivan" "Vanja")                   ;24
      ("Urban")                          ;25
      ("Vilhelmina" "Vilma")             ;26
@@ -600,25 +600,25 @@ Some updates before 2022 revision has been added."
      ("Ingemar" "Gudmar")               ; 3
      ("Solbritt" "Solveig")             ; 4
      ("Bo")                             ; 5
-     ("Gustav" "Gösta")                 ; 6
+     ("Gustav" "GÃ¶sta")                 ; 6
      ("Robert" "Robin")                 ; 7
      ("Eivor" "Majvor")                 ; 8
-     ("Börje" "Birger")                 ; 9
+     ("BÃ¶rje" "Birger")                 ; 9
      ("Svante" "Boris")                 ;10
      ("Bertil" "Berthold")              ;11
      ("Eskil")                          ;12
      ("Aina" "Aino")                    ;13
-     ("Håkan" "Hakon")                  ;14
+     ("HÃ¥kan" "Hakon")                  ;14
      ("Margit" "Margot")                ;15
      ("Axel" "Axelina")                 ;16
      ("Torborg" "Torvald")              ;17
-     ("Björn" "Bjarne")                 ;18
-     ("Germund" "Görel")                ;19
+     ("BjÃ¶rn" "Bjarne")                 ;18
+     ("Germund" "GÃ¶rel")                ;19
      ("Linda")                          ;20
      ("Alf" "Alvar")                    ;21
      ("Paulina" "Paula")                ;22
      ("Adolf" "Alice")                  ;23
-     ("Johannes Döparens dag")          ;24
+     ("Johannes DÃ¶parens dag")          ;24
      ("David" "Salomon")                ;25
      ("Rakel" "Lea")                    ;26
      ("Selma" "Fingal")                 ;27
@@ -635,8 +635,8 @@ Some updates before 2022 revision has been added."
      ("Esaias" "Jessika")               ; 6
      ("Klas")                           ; 7
      ("Kjell")                          ; 8
-     ("Jörgen" "Örjan")                 ; 9
-     ("André" "Andrea")                 ;10
+     ("JÃ¶rgen" "Ã–rjan")                 ; 9
+     ("AndrÃ©" "Andrea")                 ;10
      ("Eleonora" "Ellinor")             ;11
      ("Herman" "Hermine")               ;12
      ("Joel" "Judit")                   ;13
@@ -678,14 +678,14 @@ Some updates before 2022 revision has been added."
      ("Brynolf")                        ;16
      ("Verner" "Valter")                ;17
      ("Ellen" "Lena")                   ;18
-     ("Magnus" "Måns")                  ;19
+     ("Magnus" "MÃ¥ns")                  ;19
      ("Bernhard" "Bernt")               ;20
      ("Jon" "Jonna")                    ;21
      ("Henrietta" "Henrika")            ;22
      ("Signe" "Signhild")               ;23
      ("Bartolomeus")                    ;24
      ("Lovisa" "Louise")                ;25
-     ("Östen")                          ;26
+     ("Ã–sten")                          ;26
      ("Rolf" "Raoul")                   ;27
      (("Fatima" 2011) "Leila")          ;28
      ("Hans" "Hampus")                  ;29
@@ -704,7 +704,7 @@ Some updates before 2022 revision has been added."
      ("Anita" "Annette")                ; 9
      ("Tord" "Turid")                   ;10
      ("Dagny" "Helny")                  ;11
-     ("Åsa" "Åslög")                    ;12
+     ("Ã…sa" "Ã…slÃ¶g")                    ;12
      ("Sture")                          ;13
      ("Ida" ("Ronja" 2018))             ;14
      ("Sigrid" "Siri")                  ;15
@@ -747,7 +747,7 @@ Some updates before 2022 revision has been added."
      ("Sibylla")                        ;20
      ("Ursula" "Yrsa")                  ;21
      ("Marika" "Marita")                ;22
-     ("Severin" "Sören")                ;23
+     ("Severin" "SÃ¶ren")                ;23
      ("Evert" "Eilert")                 ;24
      ("Inga" "Ingalill")                ;25
      ("Amanda" "Rasmus")                ;26
@@ -768,7 +768,7 @@ Some updates before 2022 revision has been added."
      ("Vendela")                        ; 8
      ("Teodor" "Teodora")               ; 9
      ("Martin" "Martina")               ;10
-     ("Mårten")                         ;11
+     ("MÃ¥rten")                         ;11
      ("Konrad" "Kurt")                  ;12
      ("Kristian" "Krister")             ;13
      ("Emil" "Emilia")                  ;14
@@ -817,7 +817,7 @@ Some updates before 2022 revision has been added."
      ("Juldagen")                       ;25
      ("Stefan" "Staffan")               ;26
      ("Johannes" "Johan")               ;27
-     ("Benjamin" "Värnlösa barns dag")  ;28
+     ("Benjamin" "VÃ¤rnlÃ¶sa barns dag")  ;28
      ("Natalia" "Natalie")              ;29
      ("Abel" "Set")                     ;30
      ("Sylvester")                      ;31
@@ -846,15 +846,15 @@ added together with the name."
     (cond ((null names)
 	   (format "Inga namn idag, OK??"))
 	  ((= 3 (length names))
-	   (format "Dagens namn är: %s, %s och %s"
+	   (format "Dagens namn Ã¤r: %s, %s och %s"
                    (sv-kalender-namnsdagar--pretty-name (car names))
                    (sv-kalender-namnsdagar--pretty-name (nth 1 names))
                    (sv-kalender-namnsdagar--pretty-name (nth 2 names))))
 	  ((= 2 (length names))
-	   (format "Dagens namn är: %s och %s"
+	   (format "Dagens namn Ã¤r: %s och %s"
                    (sv-kalender-namnsdagar--pretty-name (car names))
                    (sv-kalender-namnsdagar--pretty-name (nth 1 names))))
-	  (t (format "Dagens namn är: %s"
+	  (t (format "Dagens namn Ã¤r: %s"
                      (sv-kalender-namnsdagar--pretty-name (car names)))))))
 
 (provide 'sv-kalender-namnsdagar)
